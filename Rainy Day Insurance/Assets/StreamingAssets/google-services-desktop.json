@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505906161738",
+    "firebase_url": "https://rainy-day-insurance.firebaseio.com",
+    "project_id": "rainy-day-insurance",
+    "storage_bucket": "rainy-day-insurance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505906161738:android:5905e4f9a408012f",
+        "android_client_info": {
+          "package_name": "com.mh.Rainy_Day_Insurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505906161738-k9au6k10io61c8s8l95rhdt2mubkec9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zNAcdWqxMNNBeM9TAzrw_Yk-LijhE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505906161738-k9au6k10io61c8s8l95rhdt2mubkec9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505906161738-r7049jinti5sehlrnillfirl8beqckih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mh.Rainy-Day-Insurance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
