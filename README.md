@@ -56,4 +56,4 @@ Project is: for development purpose
 Project inspired by [The Ultimate Guide to Real World Applications with Unity](https://www.udemy.com/the-ultimate-guide-to-real-world-applications-with-unity/) udemy course
 
 ## Contact
-Created by [@Mohamed Abdelnaby Elattar](www.linkedin.com/in/maaelattar) - feel free to contact me!
+Created by [Mohamed Abdelnaby Elattar](https://www.linkedin.com/in/maaelattar) - feel free to contact me!
