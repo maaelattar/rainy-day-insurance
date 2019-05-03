@@ -23,20 +23,28 @@ Application starts by main menu panel and there are two options:
     - User can search for a case by submitting his case id
 
 ## Screenshots
+- #### Main Menu Panel
+  ![Main Menu Panel](./img/1.jpg)
 
-#### Create a Case
+### Create a Case
 
-![Main Menu Panel](./img/1.jpg)
-![Client Info Panel](./img/2.jpg)
-![Location Info Panel](./img/3.jpg)
-![Take Photo Panel](./img/4.jpg)
-![Overview Panel](./img/5.jpg)
+- #### Client Info Panel
+  ![Client Info Panel](./img/2.jpg)
+- #### Location Info Panel
+  ![Location Info Panel](./img/3.jpg)
+- #### Take Photo Panel
+  ![Take Photo Panel](./img/4.jpg)
+- #### Overview Panel
+  ![Overview Panel](./img/5.jpg)
 
-#### Find a Case
+### Find a Case
 
-![Search Panel](./img/6.jpg)
-![Select Panel](./img/7.jpg)
-![Overview Panel](./img/8.jpg)
+- #### Search Panel
+  ![Search Panel](./img/6.jpg)
+- #### Select Panel
+  ![Select Panel](./img/7.jpg)
+- #### Overview Panel
+  ![Overview Panel](./img/8.jpg)
 
 ## Technologies
 * Unity - 2018.3
